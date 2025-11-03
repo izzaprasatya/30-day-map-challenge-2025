@@ -1,8 +1,15 @@
-## Day 1 | Points
+Below is important note about the data providers, softwares and plugins that I used in 2025 #30daymapchallenge
+
+Day 1 | Points
 Data source: Personal
 Software used: QGIS (https://qgis.org/)
 
-##Day 2 | Lines
+Day 2 | Lines
 Data source: OpenStreetMap (https://www.openstreetmap.org/)
 Software used: QGIS (https://qgis.org/)
 Plugin used: Road Network Orientation OSMnx (Rose Diagram) (https://plugins.qgis.org/plugins/roadnetwork_orientation_osmnx_rose/)
+
+Day 3 | Polygons
+Data source: Jakarta Satu (ArcGIS Rest Server: https://jakartasatu.jakarta.go.id/server/rest/services/)
+Software used: QGIS
+Plugin used: Land Use Analyzer (https://plugins.qgis.org/plugins/land_use_analyzer_local/)
