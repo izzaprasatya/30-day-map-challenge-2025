@@ -13,5 +13,5 @@ Plugin used: Road Network Orientation OSMnx (Rose Diagram) (https://plugins.qgis
 
 Day 3 | Polygons
 Data source: Jakarta Satu (ArcGIS Rest Server: https://jakartasatu.jakarta.go.id/server/rest/services/)
-Software used: QGIS
+Software used: QGIS (https://qgis.org/)
 Plugin used: Land Use Analyzer (https://plugins.qgis.org/plugins/land_use_analyzer_local/)
