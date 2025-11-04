@@ -15,3 +15,8 @@ Day 3 | Polygons
 Data source: Jakarta Satu (ArcGIS Rest Server: https://jakartasatu.jakarta.go.id/server/rest/services/)
 Software used: QGIS (https://qgis.org/)
 Plugin used: Land Use Analyzer (https://plugins.qgis.org/plugins/land_use_analyzer_local/)
+
+Day 4 | My Data
+Data source:
+- Geoaccess Indonesia (https://www.geoaccess.id/geodata/)
+- Software used: QGIS (https://qgis.org/)
