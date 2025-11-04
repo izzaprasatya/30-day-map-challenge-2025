@@ -16,3 +16,8 @@ Street network orientation for Jakarta's district. The higher the entropy value,
 Subdistricts in Jakarta with a very high land-use entropy values (=> 0.7). These subdistricts exhibit highly mixed land-use structures, indicating diverse activities that coexist within compact spatial units and form multifunctional urban environments.
 
 <img width="3011" height="2480" alt="subdistrict-high-landuse-entropy" src="https://github.com/user-attachments/assets/2795c62a-98ba-4599-92ec-8ad28030c420" />
+
+## 04 | My Data
+Coffee shops I visited during 2025. Each coffee shop has its own unique taste and signature coffee menu. Since my fondness for Toraja coffee, Bakoel Koffie and Bagi Kopi are probably my favorites, as they brew Toraja elegantly using the V60 method. Although Kopi Posko doesn’t serve Toraja, it’s also my favorite due to its affordable prices.
+
+<img width="3371" height="2579" alt="coffeeshop-visited-2025" src="https://github.com/user-attachments/assets/a4bcf86a-0bc4-4074-968b-268b67ce1d62" />
