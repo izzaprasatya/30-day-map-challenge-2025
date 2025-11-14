@@ -52,6 +52,10 @@ Wind pattern in Southeast Asia. This visualization was inspired by the excellent
 
 <img width="3105" height="2579" alt="sea-wind-pattern" src="https://github.com/user-attachments/assets/b358959b-8897-459b-96d9-6ea29352ed4b" />
 
+## 11 | Minimal Map
+A very simple built-up area visualization of Central Jakarta.
+
+<img width="2480" height="2480" alt="Logo" src="https://github.com/user-attachments/assets/091e1c29-d70b-40b7-a79f-b3c6898920aa" />
 
 
 
